@@ -15,6 +15,7 @@ Dans ce cadre, je dois réaliser un diagnostic d'égalité femmes-hommes dans le
 - Préparer un workflow (Knime) pour créer les graphiques du diagnostic à partir des fichiers issus du SIRH
 - Préparer un fichier .csv prêt à l'emploi dans les futures analyses
 
+## Évaluations soutenance et livrables :
 *Livrable :*
 - Workflow bien présenté en utilisant des annotations. 
 
